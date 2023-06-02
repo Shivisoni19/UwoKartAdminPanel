@@ -1,0 +1,42 @@
+export const OrderInvoicesApi = [
+  {
+    id: "#Order-78414",
+    item: "assets/images/product/product-1.jpg",
+    itemName: "Oculus VR",
+    date: "May 16, 2021",
+    Amount: "$212",
+    UName: "Alexander007",
+  },
+  {
+    id: "#Order-78414",
+    item: "assets/images/product/product-1.jpg",
+    itemName: "Oculus VR",
+    date: "May 16, 2021",
+    Amount: "$212",
+    UName: "Alexander007",
+  },
+  {
+    id: "#Order-78414",
+    item: "assets/images/product/product-1.jpg",
+    itemName: "Oculus VR",
+    date: "May 16, 2021",
+    Amount: "$212",
+    UName: "Alexander007",
+  },
+  {
+    id: "#Order-78414",
+    item: "assets/images/product/product-1.jpg",
+    itemName: "Oculus VR",
+    date: "May 16, 2021",
+    Amount: "$212",
+    UName: "Alexander007",
+  },
+  {
+    id: "#Order-78414",
+    item: "assets/images/product/product-1.jpg",
+    itemName: "Oculus VR",
+    date: "May 16, 2021",
+    Amount: "$212",
+    UName: "Alexander007",
+  },
+];

@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Jan 2022 13:29:49 at http://pixelwibes.com/template/ebazar/html/dist/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pixelwibes.com/template/ebazar/html/dist/index.html -O1 "D:\New" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:30:41	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/cropped.jpg (from https://www.pixelwibes.com/template/ebazar/html/dist/product-edit.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar2.jpg (from https://www.pixelwibes.com/template/ebazar/html/dist/contact.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar3.jpg (from https://www.pixelwibes.com/template/ebazar/html/dist/contact.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/assets/images/xs/avatar8.jpg (from https://www.pixelwibes.com/template/ebazar/html/dist/contact.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/admin-profile.html (from https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/order-invoices.html (from https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+13:30:46	Error: 	"Not Found" (404) at link https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-elements/auth-signin.html (from https://www.pixelwibes.com/template/ebazar/html/dist/ui-elements/ui-card.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 190 links scanned, 181 files written (15840445 bytes overall) [9941277 bytes received at 174408 bytes/sec], 6917604 bytes transferred using HTTP compression in 97 files, ratio 13%, 13.6 requests per connection
+(7 errors, 0 warnings, 0 messages)
